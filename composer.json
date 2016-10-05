@@ -1,0 +1,16 @@
+{
+    "name": "gmars/yii2-weibo",
+    "description": "This package provides all the interfaces to micro-blog. We can use this package to OAuth license, read and write micro-blog, to maintain the relationship between the fans, sharing and reporting geographic location.",
+    "type": "composer-plugin",
+    "require": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weiyongqiang",
+            "email": "hayixia606@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
